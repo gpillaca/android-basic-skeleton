@@ -11,3 +11,7 @@ This a basic android project.
 - [ ] [Kotlin Flow](https://kotlinlang.org/docs/flow.html)
 - [ ] [Glide](https://github.com/bumptech/glide)
 - [ ] WIP...
+
+## Author
+
+Geferson Pillaca, gpillacag@gmail.com
